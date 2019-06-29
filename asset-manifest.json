@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OneProject-React/static/css/main.fc71d57d.chunk.css",
+    "main.js": "/OneProject-React/static/js/main.250852ba.chunk.js",
+    "main.js.map": "/OneProject-React/static/js/main.250852ba.chunk.js.map",
+    "runtime~main.js": "/OneProject-React/static/js/runtime~main.f0817553.js",
+    "runtime~main.js.map": "/OneProject-React/static/js/runtime~main.f0817553.js.map",
+    "static/js/2.54df4bc2.chunk.js": "/OneProject-React/static/js/2.54df4bc2.chunk.js",
+    "static/js/2.54df4bc2.chunk.js.map": "/OneProject-React/static/js/2.54df4bc2.chunk.js.map",
+    "index.html": "/OneProject-React/index.html",
+    "precache-manifest.e0990e9788eff0cfe1be0d7275a00507.js": "/OneProject-React/precache-manifest.e0990e9788eff0cfe1be0d7275a00507.js",
+    "service-worker.js": "/OneProject-React/service-worker.js",
+    "static/css/main.fc71d57d.chunk.css.map": "/OneProject-React/static/css/main.fc71d57d.chunk.css.map"
+  }
+}
